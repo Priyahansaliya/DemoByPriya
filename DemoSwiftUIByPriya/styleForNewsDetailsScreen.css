@@ -1,0 +1,49 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1C1C1E !important;
+        color: #88898E;
+    }
+    table td{
+        background:#222!important;
+        color:#fff!important;
+    }
+    .table-responsive table.table thead tr th, .table-responsive table.table thead tr td{
+        background-color:#555!important;
+        color:#ff0!important;
+    }
+    .innerContent p a{color:#ff0!important;}
+    
+    a:link {
+        color: #88898E !important;
+    }
+    a:visited {*/
+       color: #9d57df !important;
+    }
+    
+/*    p, pre, ui, li {*/
+/*        color: white !important;*/
+/*    }*/
+/*    a:link {*/
+/*        color: #0096e2 !important;*/
+/*    }*/
+/*    a:visited {*/
+/*        color: #9d57df !important;*/
+/*    }*/
+/*    h1,h2,h3,h4,h5,h6,h7,h9,strong, title {*/
+/*      color: orange !important;*/
+/*    }*/
+/*    blockquote {*/
+/*       background-color: #121212 !important;*/
+/*       color: white !important;*/
+/*    }*/
+/*    span{color: white !important;}*/
+}
+
+@media (prefers-color-scheme: light) {
+/*    a:visited {*/
+/*        color: #f44236 !important;*/
+/*    }*/
+/*    a:link {*/
+/*        color: #f44236 !important;*/
+/*    }*/
+}
